@@ -11,7 +11,7 @@
 
 - 📫 Reach me **Priyanshushukla1217@gmail.com**
 
-- ⚡ Fun fact **I can make everything work.**
+- ⚡ Fun fact **I can make anything work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
