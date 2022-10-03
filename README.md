@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **Priyanshushukla1217@gmail.com**
+- 📫 Reach me **Priyanshushukla1217@gmail.com**
 
 - ⚡ Fun fact **I can make everything work.**
 
