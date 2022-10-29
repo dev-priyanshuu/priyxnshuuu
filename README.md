@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Machine learning**
 
-- 👯 I’m looking to collaborate on **Machine learning**
+- 👯 I’m looking to collaborate on **Django, Machine learning**
 
 - 💬 Ask me about **Python, Django, Machine learning**
 
