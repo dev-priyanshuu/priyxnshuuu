@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyxnshuuu&label=Profile%20views&color=0e75b6&style=flat" alt="priyxnshuuu" /> </p>
 
-- 🌱 I’m currently learning **Django, Machine learning**
+- 🌱 I’m currently learning **AI/ML, LLM, MERN, ReactNative**
 
-- 👯 I’m looking to collaborate on **Express, React, Django, Machine learning**
+- 👯 I’m looking to collaborate on **GenAI, LLM, MERN**
 
-- 💬 Ask me about **Python, Django, Machine learning, React, Express**
+- 💬 Ask me about **AI/ML, LLM, React, Express**
 
 - 📫 How to reach me **Priyanshushukla1217@gmail.com**
 
